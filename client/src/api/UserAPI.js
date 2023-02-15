@@ -61,4 +61,3 @@ function UserAPI(token) {
 }
 
 export default UserAPI
- 
